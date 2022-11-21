@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\shopapp.business\\Abstract",
+    "\\shopapp.business\\Concrete",
+    "\\shopapp.data",
+    "\\shopapp.data\\Concrete\\EfCore",
+    "\\shopapp.entity"
+  ],
+  "SelectedNode": "\\shopapp.entity\\shopapp.entity.csproj",
+  "PreviewInSolutionExplorer": false
+}
